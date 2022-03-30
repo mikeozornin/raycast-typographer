@@ -13,7 +13,7 @@
     {
       "name": "index",
       "title": "Typograph Selected Text",
-      "description": "Process text and paste in in the most foreground app",
+      "description": "Process text and paste it in the most foreground app",
       "mode": "no-view"
     }
   ],
