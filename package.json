@@ -1,6 +1,6 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "Typographer",
+  "name": "typographer",
   "title": "Typographer: make text pretty",
   "description": "Make your text's typography pretty: fix quotes, dashes and spaces. Works offline.",
   "icon": "raycast-typographer.png",
